@@ -29,3 +29,4 @@
 <br/>
 
  ![Snake animation](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.svg)
+
