@@ -27,6 +27,8 @@
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 <br/>
-
+<div>
+<img align="right" alt"gif danny" src="https://discord.com/channels/@me/807314788526587916/957503985416290324"/>
+  
  ![Snake animation](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.svg)
-
+     </div>
