@@ -28,7 +28,6 @@
 </div>
 <br/>
 <div>
-<img align="right" alt"gif danny" src="https://discord.com/channels/@me/807314788526587916/957503985416290324"/>
   
  ![Snake animation](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.svg)
      </div>
