@@ -28,7 +28,7 @@
 </div>
 <br/>
 <div>
-  <img align="right" alt="Gif Danny" height="150" style="border-radius:50px;" src="https://imgur.com/a/Er2nCI7">
 
+  
  ![Snake animation](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.svg)
      </div>
