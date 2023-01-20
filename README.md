@@ -25,13 +25,17 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
 </div>
 <br/>
+
 <div>
 
   
  ![Snake animation](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.svg)
      </div>
      
-  <iframe src="https://giphy.com/embed/H7ZKlBrz4qx3fSzSB7" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-chibi-jinzhan-H7ZKlBrz4qx3fSzSB7">via GIPHY</a></p>
+<div>
+  <img align="right" alt="gifty" src="https://media.giphy.com/media/ekdqUszR5TReuJn5AC/giphy.gif" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/transparent-5s2aRJiRHsvxcFfA1a">via GIPHY</a></p>
+  </div>
   
