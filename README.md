@@ -36,6 +36,6 @@
      </div>
      
 <div>
-  <img align="right" alt="gifty" src="https://media.giphy.com/media/ekdqUszR5TReuJn5AC/giphy.gif" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/transparent-5s2aRJiRHsvxcFfA1a">via GIPHY</a></p>
+  <img align="right" alt="gifty" src="https://media.giphy.com/media/ekdqUszR5TReuJn5AC/giphy.gif" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></>
   </div>
   
