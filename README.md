@@ -32,16 +32,19 @@
 
 
 <div style="display: flex; justify-content: center;">
+  <div >
   <img alt="Nivelamento" src="https://github.com/Danny-ctrl/diplomas/blob/main/Nivelamento%20(1).png" width="20%" height="20%" />
-  
+</div>
+<div>
   <img alt="Básico" src="https://github.com/Danny-ctrl/diplomas/blob/main/B%C3%A1sico%20(1).png" width="20%" height="20%" />
+</div>
 </div>
 
 
 <div>
 
   
-![snake gif](https://github.com/Danny-ctrl/Danny-ctrl/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Danny-ctrl/Danny-ctrl/blob/c754002ae46f29d422188b6145dd950d51a8be58/github-contribution-grid-snake-dark.svg)
      </div>
      
 <div>
