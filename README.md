@@ -31,14 +31,12 @@
 <br/>
 
 
-<div style="display: flex; justify-content: center;">
-  <div >
+<p align="center">
   <img alt="Nivelamento" src="https://github.com/Danny-ctrl/diplomas/blob/main/Nivelamento%20(1).png" width="20%" height="20%" />
-</div>
-<div>
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img alt="Básico" src="https://github.com/Danny-ctrl/diplomas/blob/main/B%C3%A1sico%20(1).png" width="20%" height="20%" />
-</div>
-</div>
+</p>
+
 
 
 <div>
