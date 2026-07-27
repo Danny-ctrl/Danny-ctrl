@@ -6,7 +6,8 @@
 
 <br/>
 
-![Daniele GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-ctrl&show_icons=true&theme=synthwave&count_private=true)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Danny-ctrl)](https://github.com/stats-organization/github-stats-extended)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-ctrl&layout=compact)](https://github.com/Danny-ctrl/github-readme-stats)
