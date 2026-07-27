@@ -7,10 +7,10 @@
 <br/>
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Danny-ctrl)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Danny-ctrl&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=Danny-ctrl&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-ctrl&layout=compact)](https://github.com/Danny-ctrl/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Danny-ctrl&layout=compact&langs_count=10&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=Danny-ctrl&layout=compact&langs_count=10&theme=prussian)
 
 <br/>
 
