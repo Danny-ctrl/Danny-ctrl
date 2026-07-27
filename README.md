@@ -1,4 +1,12 @@
-### Oieee!! Sou a Daniele Romes 👋
+###  👋 Olá! Eu sou a Daniele Romes
+
+💼 Scrum Master | Analista de Sistemas | QA |Cypress | Desenvolvedora Full Stack
+
+
+
+Atualmente atuo como Scrum Master, contribuindo na organização das equipes, análise de requisitos, definição de fluxos e acompanhamento das entregas. Paralelamente, desenvolvo projetos pessoais para aprofundar conhecimentos em Angular, Java, Spring Boot e automação de testes com Cypress.
+
+---
 <br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-romes/)
